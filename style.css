@@ -1,0 +1,90 @@
+@media only screen and (min-width:750px) {
+   body{
+    padding: 0;
+   }
+    
+    #c-img{
+       width: 6rem;
+    }
+    #p1{
+        width: 30rem;
+    }
+    #b1{
+        width: 25rem;
+    }
+    #p2{
+        width: 35rem;
+        margin-left: 21rem;
+    }
+    #art1{
+        text-align: left;
+        width: 18rem;
+    }
+    #art2{
+        text-align: left;
+        width: 18rem;
+    }
+    #art3{
+        text-align: left;
+        width: 17rem;
+    }
+    #p3{
+        width: 30rem;
+        margin-left: 23rem;
+    }
+    #img2{
+        width: 25rem;
+    }
+    #sec6{
+        margin-left: 10rem;
+        gap: 4rem;
+    }
+    #at1{
+        margin-top: -1rem;
+    }
+    #at2{
+        margin-top: -4rem;
+    }
+    #sec7{
+        width: 50rem;
+        margin-left: 15rem;   
+    }
+    #i1{
+        margin-right: 2rem;
+    }
+    #i2{
+        margin-right: 2rem;
+    }
+    #i3{
+        margin-right: 2rem;
+    }
+    #i4{
+        margin-right: 2rem;
+    }
+    #i5{
+        margin-right: 2rem;
+    }
+    #p4{
+        margin-left: 23rem;
+        width: 31rem;
+    }
+    #b2{
+        width: 25rem;
+        margin-left: 26rem;
+    }
+    #img4{
+        width: 3rem;
+        margin-left: 7rem;
+        margin-right: 2rem;
+    }
+    #p5{
+        margin-right: 27rem;
+    }
+    #p6{
+        text-align: left;
+    }
+    #p7{
+        text-align: left;
+    }
+
+}
