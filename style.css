@@ -2,6 +2,10 @@
    body{
     padding: 0;
    }
+   main{
+    background: url(./images/bg-header-desktop.png) no-repeat;
+    background-size: contain;
+   }
     
     #c-img{
        width: 6rem;
@@ -13,8 +17,12 @@
         width: 25rem;
     }
     #p2{
-        width: 35rem;
+        width: 42rem;
         margin-left: 21rem;
+    }
+
+    #sec3{
+        margin-left: 9rem;
     }
     #art1{
         text-align: left;
@@ -30,13 +38,13 @@
     }
     #p3{
         width: 30rem;
-        margin-left: 23rem;
+        margin-left: 28rem;
     }
     #img2{
-        width: 25rem;
+        width: 40rem;
     }
     #sec6{
-        margin-left: 10rem;
+        margin-left: 17rem;
         gap: 4rem;
     }
     #at1{
@@ -47,7 +55,7 @@
     }
     #sec7{
         width: 50rem;
-        margin-left: 15rem;   
+        margin-left: 20rem;   
     }
     #i1{
         margin-right: 2rem;
@@ -66,11 +74,11 @@
     }
     #p4{
         margin-left: 23rem;
-        width: 31rem;
+        width: 38rem;
     }
     #b2{
         width: 25rem;
-        margin-left: 26rem;
+        margin-left: 30rem;
     }
     #img4{
         width: 3rem;
